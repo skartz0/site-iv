@@ -19,3 +19,9 @@ tags:
 </iframe>
 
 Άσκηση: Δημιουργήστε την δικιά σας φόρμα και βάση δεδομένων, όπου θα αποθηκεύετε διαφορετικά είδη δεδομένων, όπως κείμενο, μενού επιλογών, κτλ. 
+
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="HCI Firebase form" src="https://codepen.io/skartzos/embed/ExyvagK?height=265&theme-id=light&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/skartzos/pen/ExyvagK'>HCI Firebase form</a> by Alex(up1088748)
+  (<a href='https://codepen.io/skartzos'>@skartzos</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
