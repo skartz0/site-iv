@@ -16,3 +16,12 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Ασκηση: Κατανοήστε τον τρόπο λειτουργίας των εικόνων τύπου SVG και στη συνέχεια τροποποιείστε το παράδειγμα δημιουργώντας δίπλα στην υπάρχουσα εικόνα, μια ίδια (που να εκτελεί την ίδια λειτουργία) του μισού μεγέθους.
+
+SVG Image υλοποίηση
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="Image" src="https://codepen.io/skartzos/embed/xxOeejj?height=265&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/skartzos/pen/xxOeejj'>Image</a> by Alex(up1088748)
+  (<a href='https://codepen.io/skartzos'>@skartzos</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+
