@@ -29,4 +29,5 @@ slides:
   - messenger
   - notifications
   - google-now
+  - lidar_on_smartphones
 ---
