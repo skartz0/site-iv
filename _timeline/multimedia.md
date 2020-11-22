@@ -15,5 +15,6 @@ events:
   - windows95
   - winamp
   - media-scrub
+  - lidar_on_smartphones
 ---
 
