@@ -16,5 +16,7 @@ events:
   - winamp
   - media-scrub
   - lidar_on_smartphones
+  - car-dashboard
+  - haptic-engine
 ---
 
