@@ -11,4 +11,6 @@ slides:
   - notifications 
   - google-now
   - chat-bot
+  - car-dashboard
+  - haptic-engine
 ---
